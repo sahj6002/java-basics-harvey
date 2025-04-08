@@ -1,1 +1,1 @@
-
+Programming "Hello World!" is the first thing I learned to code in Java. This basic program introduces me in the world of programming, and also introduced me to new concepts not just to print "hello world", but I have also learned a bit about the history of java, and its procedures of how it is first written in text, compiled then run by the JVM to run the said program.
