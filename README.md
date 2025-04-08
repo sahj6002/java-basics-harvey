@@ -1,57 +1,44 @@
-# Java Basics – Harvey
-Java Basics – Harvey
-This repository showcases my journey in mastering core Java concepts as a 1st-year Computer Science student. Each project reflects a step in my learning process.
+# Java Basics - Learning Projects
 
-Projects
-1. Hello World
-Description: My inaugural Java program that prints "Hello, World!" to the console.
+A collection of beginner Java projects demonstrating core programming concepts. Each project represents a step in my journey to learn Java fundamentals.
 
-Concepts Learned: Basic syntax, main method structure, and console output.
+## Projects
 
+### 1. Hello World
+- **Description**: Basic program that prints "Hello, World!" to the console
+- **Concepts**: Main method structure, basic syntax, console output
 
-2. Simple Salary Calculator
-Description: A program that calculates an employee's salary based on inputted hours worked and hourly rate.
+### 2. Simple Salary Calculator
+- **Description**: Calculates employee salary from hours worked and hourly rate
+- **Concepts**: Scanner input, arithmetic operations, data types
 
+### 3. Simple Grade Converter
+- **Description**: Converts numerical grades to letter grades
+- **Concepts**: Conditional statements (if-else), input validation
 
-Concepts Learned: User input handling with Scanner, arithmetic operations, and basic data types.
+### 4. Number Guessing Game
+- **Description**: Interactive number guessing game
+- **Concepts**: Random number generation, loops, user input
 
-3. Simple Grade Converter
-Description: Converts numerical grades into letter grades based on standard grading criteria.
+### 5. RockPaperScissors Game
+- **Description**: Play Rock, Paper, Scissors against the computer
+- **Concepts**: Randomization, game loops, input validation
 
-Concepts Learned: Conditional statements (if-else), logical operators, and user input validation.
+### 6. Simple Form Checker
+- **Description**: Validates form inputs (name, email, password)
+- **Concepts**: String manipulation, regular expressions
 
+### 7. Simple Student Info Analyzer
+- **Description**: Analyzes student grades and attendance
+- **Concepts**: Arrays, basic statistics (average, max/min)
 
-4. Number Guessing Game
-Description: A game where the user guesses a randomly generated number within a specified range.
+### 8. Student Grade Calculator
+- **Description**: Calculates weighted final grades
+- **Concepts**: Weighted arithmetic, modular code
 
-Concepts Learned: Random number generation, loops, conditionals, and user interaction.
+### 9. Username and Password Validator
+- **Description**: Validates credentials against security rules
+- **Concepts**: String operations, conditional logic
 
-
-5. RockPaperScissorsGame
-Description: A fun interactive game where the user plays Rock, Paper, Scissors against the computer.
-
-Concepts Learned: Randomization, user input validation, and game loop implementation.
-
-
-6. SimpleFormChecker
-Description: A program that validates user input for a basic form (e.g., name, email, password).
-
-Concepts Learned: String manipulation, regular expressions, and input validation techniques.
-
-
-7. SimpleStudentInfoAnalyser
-Description: Analyzes student information (e.g., grades, attendance) and provides summary statistics.
-
-Concepts Learned: Arrays, basic statistics (average, max/min), and data aggregation.
-
-
-8. StudentGradeCalculator
-Description: Calculates a student's final grade based on weighted assignments, quizzes, and exams.
-
-Concepts Learned: Weighted arithmetic, data structures, and modular code organization.
-
-
-9. UsernameAndPasswordValidator
-Description: Validates usernames and passwords against specific criteria (e.g., length, special characters).
-
-Concepts Learned: String operations, conditional logic, and security basics.
+## About
+Created during my first year of Computer Science studies to practice core Java concepts.
