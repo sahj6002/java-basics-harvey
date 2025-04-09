@@ -40,5 +40,9 @@ A collection of beginner Java projects demonstrating core programming concepts. 
 - **Description**: Validates credentials against security rules
 - **Concepts**: String operations, conditional logic
 
+### 10. Student Grade Analyzer
+- **Description**: Takes a student's name and three exam scores, calculates the average, assigns a letter grade (A–F), and determines pass/fail status.
+- **Concepts**: String formatting, mathematical operations, method creation, conditional logic
+
 ## About
 Created during my first year of Computer Science studies to practice core Java concepts.
