@@ -44,5 +44,9 @@ A collection of beginner Java projects demonstrating core programming concepts. 
 - **Description**: Takes a student's name and three exam scores, calculates the average, assigns a letter grade (A–F), and determines pass/fail status.
 - **Concepts**: String formatting, mathematical operations, method creation, conditional logic
 
+### 11. Simple Expense Tracker  
+- **Description**: Records and analyzes multiple expenses by name and amount, showing total, highest, and lowest expenses.  
+- **Concepts**: Arrays, Scanner input, looping, custom methods, string manipulation, min/max logic using `Arrays.stream`
+
 ## About
 Created during my first year of Computer Science studies to practice core Java concepts.
